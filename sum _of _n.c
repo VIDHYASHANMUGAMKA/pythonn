@@ -10,5 +10,5 @@ void main()
     {
         sum = sum + i;
     }
-    printf ("Sum of first %d natural numbers = %d\n", num, sum);
+    printf (sum);
 }  
